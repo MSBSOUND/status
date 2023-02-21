@@ -22,19 +22,19 @@
     "url": "https://www.reddit.com/r/MSBSOUND/",
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit-r-msbsound",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 149,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 239,
+    "timeDay": 171,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-02-21": 0
+      "2023-02-21": 19
     }
   }
 ]
