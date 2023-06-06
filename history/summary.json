@@ -4,9 +4,9 @@
     "url": "https://www.msbsound.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.msbsound.com.ico",
     "slug": "magic-strawberry-sound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2019,
     "timeMonth": 2016,
     "timeYear": 1981,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "Reddit r/MSBSOUND",
